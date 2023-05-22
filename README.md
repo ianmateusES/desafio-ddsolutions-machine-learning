@@ -19,7 +19,7 @@ Seu objetivo é desenvolver um modelo de classificação usando algoritmos de Ma
 
 7. Opcionalmente, você pode experimentar diferentes algoritmos de classificação, ajustar os parâmetros do modelo e comparar seus desempenhos.
 
-8. Documente todo o processo e compartilhe seu código em um repositório Git.
+8. Documente todo o processo e compartilhe seu código em um [colab](https://colab.research.google.com).
 
 9. Prepare uma breve apresentação dos resultados, descrevendo suas conclusões e destacando os pontos mais importantes do projeto.
 
